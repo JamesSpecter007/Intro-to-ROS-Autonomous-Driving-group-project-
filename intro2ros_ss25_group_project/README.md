@@ -9,7 +9,7 @@
 
 ## Installation
 
-1. Start with a fresh Ubuntu 20.04 installation.
+1. Start with a fresh Ubuntu 20.04 installation and C++
 2. Install ROS Noetic: http://wiki.ros.org/noetic/Installation/Ubuntu, up to and including number 1.6:
     * Choose Desktop-Full Install in section 1.4
 3. Install the following dependencies:
